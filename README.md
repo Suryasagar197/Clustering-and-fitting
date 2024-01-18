@@ -3,4 +3,5 @@ Assignment 3
 
 The dataset is taken from Worldbank repository https://data.worldbank.org/.
 
-It has GDP per capita and average years of schooling from 1960 to 2017.
+The CSV files containing GDP per capita and Average schooling years are used for the analysis. 
+The CSV files contain data from 1960 to 2017.
